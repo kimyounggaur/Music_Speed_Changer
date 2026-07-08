@@ -1,0 +1,12 @@
+node_modules
+dist
+output
+.vite
+.env
+.env.*
+*.local
+*.tsbuildinfo
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
